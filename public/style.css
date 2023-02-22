@@ -1,0 +1,30 @@
+.container {
+    background-color: #f8f9fa;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .centered-text {
+    text-align: center;
+  }
+  
+  .centered-text h1 {
+    font-size: 4rem;
+    margin: 0;
+    padding: 0;
+    color: #fff;
+    background-color: #007bff;
+    display: inline-block;
+    padding: 10px 20px;
+    border-radius: 5px;
+  }
+  
+  .centered-text p {
+    font-size: 2rem;
+    margin: 0;
+    padding: 0;
+    color: #333;
+  }
+  
